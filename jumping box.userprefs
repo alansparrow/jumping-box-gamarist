@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/TouchInput.cs">
+    <Files>
+      <File FileName="Assets/script/TouchInput.cs" Line="13" Column="1" />
+      <File FileName="Assets/script/GameControl.cs" Line="16" Column="7" />
+      <File FileName="Assets/script/street.cs" Line="16" Column="4" />
+      <File FileName="Assets/script/Box.cs" Line="18" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
